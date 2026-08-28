@@ -63,6 +63,7 @@ export default function Shell({ children }: ShellProps) {
             links = [
                 { href: "/employee", label: "My Goals", icon: "🎯" },
                 { href: "/employee/profile", label: "Dashboard Profile", icon: "👤" },
+                { href: "/employee/account-settings", label: "Profile & Account Settings", icon: "⚙️" },
             ];
             break;
 
